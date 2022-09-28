@@ -4,7 +4,8 @@
     ["mlx90640/utils.py", "github:jimmo/micropython-mlx90640/mlx90640/utils.py"]
   ],
   "deps": [
-    ["collections-defaultdict", "latest"]
+    ["collections-defaultdict", "latest"],
+    ["os-path", "latest"]
   ],
-  "version": "0.1"
+  "version": "0.2"
 }
